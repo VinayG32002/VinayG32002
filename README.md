@@ -1,5 +1,10 @@
 # 💫 About Me:
-I’m a Data Science graduate with hands-on experience in Python, SQL, and Power BI, passionate about transforming data into meaningful insights. I’ve worked on academic projects and internships involving data analysis, visualization, and basic machine learning, and I’m continuously learning to strengthen my problem-solving and analytical skills.<br><br>I’m actively seeking entry-level Data Analyst / Data Science roles, where I can apply my skills, learn from real-world data, and contribute to data-driven decision-making
+🔭 Working on data projects while learning 
+👯 Open to collabs in Python/SQL 
+🤝 Figuring out cleaner code & project setup 
+🌱 Learning ML & Power BI 
+💬 Ask me about beginner data stuff 
+⚡ Fun fact: I like to play games 🎮
 
 
 ## 🌐 Socials:
