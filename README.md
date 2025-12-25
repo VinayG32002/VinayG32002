@@ -1,1 +1,18 @@
+# 💫 About Me:
+I’m a Data Science graduate with hands-on experience in Python, SQL, and Power BI, passionate about transforming data into meaningful insights. I’ve worked on academic projects and internships involving data analysis, visualization, and basic machine learning, and I’m continuously learning to strengthen my problem-solving and analytical skills.<br><br>I’m actively seeking entry-level Data Analyst / Data Science roles, where I can apply my skills, learn from real-world data, and contribute to data-driven decision-making
 
+
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vinay32002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gvinay32002@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VinayG32002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VinayG32002&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayG32002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=VinayG32002&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
